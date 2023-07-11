@@ -1,30 +1,22 @@
 # Software para contagem de Sementes
 
-Um parágrafo da descrição do projeto vai aqui
+Trabalho de Conclusão de Curso ETEC Rodrigues de Abreu
 
 
 ### 📋 Pré-requisitos
-
-Python 3
+*Python 3
+*OpenCV
+*Streamlit
 
 ### 🔧 Instalação
-
-
 ```
 - pip install requirements.py
 ```
 
-## ⚙️ Executando os testes
-
-Imagens com direitos autorais, e não disponíveis para testes.
-
 ## 📦 Implantação
-
-As sementes devem esstar tratadas com o sal Tetrazólio e em fundo azul
+Cada lote de sementes tem um grupo de teste de qualidade removido, onde é aplicado o sal Tetrazólio que reage com as proteinas vivas da semente dando uma coloração avermelhada. O fundo para scannear e gerar as imagens deve ser azul.
 
 ## 🛠️ Construído com
-
-
 * [StreamLit](http://www.https://streamlit.io) - O framework web usado
 * [OpenCV](https://https://opencv.org) - Tratamento de Imagens
 
@@ -35,8 +27,3 @@ As sementes devem esstar tratadas com o sal Tetrazólio e em fundo azul
 * **Bernardo Fernandes** - *Desenvolvedor* *
 * **Huila Santos** - *Testes e Documentação* *
 * **Tayná Sequeira** - *Testes e Documentação* *
-
-
-## 🎁 Expressões de gratidão
-
-*  Agradecemos eternamente a professora Carolina da ETEC de Bauru.
