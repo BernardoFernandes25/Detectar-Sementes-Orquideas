@@ -20,6 +20,11 @@ Cada lote de sementes tem um grupo de teste de qualidade removido, onde é aplic
 * [StreamLit](http://www.https://streamlit.io) - O framework web usado
 * [OpenCV](https://https://opencv.org) - Tratamento de Imagens
 
+## RESULTADO
+![image](https://github.com/BernardoFernandes25/Detectar-Sementes-Orquideas/assets/139241276/808146a0-5bbe-421f-90a6-e8621fa66e17)
+![image](https://github.com/BernardoFernandes25/Detectar-Sementes-Orquideas/assets/139241276/bbd14cc5-1ccd-43d3-ab70-8b1743a25ce9)
+![image](https://github.com/BernardoFernandes25/Detectar-Sementes-Orquideas/assets/139241276/1e378d23-2dc4-4bfe-8838-23f433b79bb7)
+
 
 ## ✒️ Autores
 
